@@ -1,0 +1,15 @@
+{
+  "input_counts": {
+    "reddit": 180,
+    "linkedin": 180
+  },
+  "output_records": 360,
+  "empty_records_removed": 0,
+  "excluded_ids": [],
+  "records_with_lexicon_changes": 234,
+  "output_counts_by_platform": {
+    "reddit": 180,
+    "linkedin": 180
+  },
+  "normalization_version": "1.0"
+}

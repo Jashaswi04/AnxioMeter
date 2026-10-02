@@ -1,0 +1,1262 @@
+[
+  {
+    "source_id": "expanded_reddit_0001",
+    "published_at": "2026-09-01T10:00:00Z",
+    "content": "I work at TCS. Our company announced layoffs and several engineering roles were cut. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0002",
+    "published_at": "2026-09-02T10:00:00Z",
+    "content": "My current employer is Wipro. Our company announced layoffs and several engineering roles were cut. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0003",
+    "published_at": "2026-09-03T10:00:00Z",
+    "content": "I joined HCL last year. Our company announced layoffs and several engineering roles were cut. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0004",
+    "published_at": "2026-09-04T10:00:00Z",
+    "content": "I have two years of software development experience. Our company announced layoffs and several engineering roles were cut. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0005",
+    "published_at": "2026-09-05T10:00:00Z",
+    "content": "I recently moved into a testing role. Our company announced layoffs and several engineering roles were cut. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0006",
+    "published_at": "2026-09-06T10:00:00Z",
+    "content": "I work on cloud infrastructure. Our company announced layoffs and several engineering roles were cut. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0007",
+    "published_at": "2026-09-07T10:00:00Z",
+    "content": "I recently joined Infosys. My team was dissolved during restructuring and I lost my job. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0008",
+    "published_at": "2026-09-08T10:00:00Z",
+    "content": "I work for Cognizant. My team was dissolved during restructuring and I lost my job. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0009",
+    "published_at": "2026-09-09T10:00:00Z",
+    "content": "I work at a product startup. My team was dissolved during restructuring and I lost my job. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0010",
+    "published_at": "2026-09-10T10:00:00Z",
+    "content": "I work on backend services. My team was dissolved during restructuring and I lost my job. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0011",
+    "published_at": "2026-09-11T10:00:00Z",
+    "content": "I am part of a small engineering team. My team was dissolved during restructuring and I lost my job. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0012",
+    "published_at": "2026-09-12T10:00:00Z",
+    "content": "I changed teams earlier this year. My team was dissolved during restructuring and I lost my job. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0013",
+    "published_at": "2026-09-13T10:00:00Z",
+    "content": "I work at TCS. The latest workforce reduction has left me uncertain about employment. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0014",
+    "published_at": "2026-09-14T10:00:00Z",
+    "content": "My current employer is Wipro. The latest workforce reduction has left me uncertain about employment. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0015",
+    "published_at": "2026-09-15T10:00:00Z",
+    "content": "I joined HCL last year. The latest workforce reduction has left me uncertain about employment. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0016",
+    "published_at": "2026-09-16T10:00:00Z",
+    "content": "I have two years of software development experience. The latest workforce reduction has left me uncertain about employment. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0017",
+    "published_at": "2026-09-17T10:00:00Z",
+    "content": "I recently moved into a testing role. The latest workforce reduction has left me uncertain about employment. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0018",
+    "published_at": "2026-09-18T10:00:00Z",
+    "content": "I work on cloud infrastructure. The latest workforce reduction has left me uncertain about employment. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0019",
+    "published_at": "2026-09-19T10:00:00Z",
+    "content": "I recently joined Infosys. After being laid off, I am searching for another software role. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0020",
+    "published_at": "2026-09-20T10:00:00Z",
+    "content": "I work for Cognizant. After being laid off, I am searching for another software role. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0021",
+    "published_at": "2026-09-21T10:00:00Z",
+    "content": "I work at a product startup. After being laid off, I am searching for another software role. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0022",
+    "published_at": "2026-09-22T10:00:00Z",
+    "content": "I work on backend services. After being laid off, I am searching for another software role. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0023",
+    "published_at": "2026-09-23T10:00:00Z",
+    "content": "I am part of a small engineering team. After being laid off, I am searching for another software role. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0024",
+    "published_at": "2026-09-24T10:00:00Z",
+    "content": "I changed teams earlier this year. After being laid off, I am searching for another software role. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0025",
+    "published_at": "2026-09-25T10:00:00Z",
+    "content": "I work at TCS. Management announced redundancies despite the team meeting its targets. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0026",
+    "published_at": "2026-09-26T10:00:00Z",
+    "content": "My current employer is Wipro. Management announced redundancies despite the team meeting its targets. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0027",
+    "published_at": "2026-09-27T10:00:00Z",
+    "content": "I joined HCL last year. Management announced redundancies despite the team meeting its targets. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0028",
+    "published_at": "2026-09-28T10:00:00Z",
+    "content": "I have two years of software development experience. Management announced redundancies despite the team meeting its targets. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0029",
+    "published_at": "2026-09-01T10:00:00Z",
+    "content": "I recently moved into a testing role. Management announced redundancies despite the team meeting its targets. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0030",
+    "published_at": "2026-09-02T10:00:00Z",
+    "content": "I work on cloud infrastructure. Management announced redundancies despite the team meeting its targets. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0031",
+    "published_at": "2026-09-03T10:00:00Z",
+    "content": "I work at TCS. My 90-day notice period conflicts with the new employer's joining date. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0032",
+    "published_at": "2026-09-04T10:00:00Z",
+    "content": "My current employer is Wipro. My 90-day notice period conflicts with the new employer's joining date. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0033",
+    "published_at": "2026-09-05T10:00:00Z",
+    "content": "I joined HCL last year. My 90-day notice period conflicts with the new employer's joining date. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0034",
+    "published_at": "2026-09-06T10:00:00Z",
+    "content": "I have two years of software development experience. My 90-day notice period conflicts with the new employer's joining date. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0035",
+    "published_at": "2026-09-07T10:00:00Z",
+    "content": "I recently moved into a testing role. My 90-day notice period conflicts with the new employer's joining date. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0036",
+    "published_at": "2026-09-08T10:00:00Z",
+    "content": "I work on cloud infrastructure. My 90-day notice period conflicts with the new employer's joining date. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0037",
+    "published_at": "2026-09-09T10:00:00Z",
+    "content": "I recently joined Infosys. The recruiter wants an immediate joiner but my notice period is long. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0038",
+    "published_at": "2026-09-10T10:00:00Z",
+    "content": "I work for Cognizant. The recruiter wants an immediate joiner but my notice period is long. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0039",
+    "published_at": "2026-09-11T10:00:00Z",
+    "content": "I work at a product startup. The recruiter wants an immediate joiner but my notice period is long. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0040",
+    "published_at": "2026-09-12T10:00:00Z",
+    "content": "I work on backend services. The recruiter wants an immediate joiner but my notice period is long. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0041",
+    "published_at": "2026-09-13T10:00:00Z",
+    "content": "I am part of a small engineering team. The recruiter wants an immediate joiner but my notice period is long. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0042",
+    "published_at": "2026-09-14T10:00:00Z",
+    "content": "I changed teams earlier this year. The recruiter wants an immediate joiner but my notice period is long. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0043",
+    "published_at": "2026-09-15T10:00:00Z",
+    "content": "I work at TCS. I requested an early release after resigning but it was rejected. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0044",
+    "published_at": "2026-09-16T10:00:00Z",
+    "content": "My current employer is Wipro. I requested an early release after resigning but it was rejected. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0045",
+    "published_at": "2026-09-17T10:00:00Z",
+    "content": "I joined HCL last year. I requested an early release after resigning but it was rejected. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0046",
+    "published_at": "2026-09-18T10:00:00Z",
+    "content": "I have two years of software development experience. I requested an early release after resigning but it was rejected. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0047",
+    "published_at": "2026-09-19T10:00:00Z",
+    "content": "I recently moved into a testing role. I requested an early release after resigning but it was rejected. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0048",
+    "published_at": "2026-09-20T10:00:00Z",
+    "content": "I work on cloud infrastructure. I requested an early release after resigning but it was rejected. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0049",
+    "published_at": "2026-09-21T10:00:00Z",
+    "content": "I recently joined Infosys. My next job offer may expire before I finish serving notice. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0050",
+    "published_at": "2026-09-22T10:00:00Z",
+    "content": "I work for Cognizant. My next job offer may expire before I finish serving notice. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0051",
+    "published_at": "2026-09-23T10:00:00Z",
+    "content": "I work at a product startup. My next job offer may expire before I finish serving notice. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0052",
+    "published_at": "2026-09-24T10:00:00Z",
+    "content": "I work on backend services. My next job offer may expire before I finish serving notice. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0053",
+    "published_at": "2026-09-25T10:00:00Z",
+    "content": "I am part of a small engineering team. My next job offer may expire before I finish serving notice. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0054",
+    "published_at": "2026-09-26T10:00:00Z",
+    "content": "I changed teams earlier this year. My next job offer may expire before I finish serving notice. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0055",
+    "published_at": "2026-09-27T10:00:00Z",
+    "content": "I work at TCS. Negotiating a notice period buyout has delayed my job switch. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0056",
+    "published_at": "2026-09-28T10:00:00Z",
+    "content": "My current employer is Wipro. Negotiating a notice period buyout has delayed my job switch. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0057",
+    "published_at": "2026-09-01T10:00:00Z",
+    "content": "I joined HCL last year. Negotiating a notice period buyout has delayed my job switch. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0058",
+    "published_at": "2026-09-02T10:00:00Z",
+    "content": "I have two years of software development experience. Negotiating a notice period buyout has delayed my job switch. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0059",
+    "published_at": "2026-09-03T10:00:00Z",
+    "content": "I recently moved into a testing role. Negotiating a notice period buyout has delayed my job switch. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0060",
+    "published_at": "2026-09-04T10:00:00Z",
+    "content": "I work on cloud infrastructure. Negotiating a notice period buyout has delayed my job switch. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0061",
+    "published_at": "2026-09-05T10:00:00Z",
+    "content": "I work at TCS. My 12lpa salary barely changed after this year's appraisal. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0062",
+    "published_at": "2026-09-06T10:00:00Z",
+    "content": "My current employer is Wipro. My 12lpa salary barely changed after this year's appraisal. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0063",
+    "published_at": "2026-09-07T10:00:00Z",
+    "content": "I joined HCL last year. My 12lpa salary barely changed after this year's appraisal. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0064",
+    "published_at": "2026-09-08T10:00:00Z",
+    "content": "I have two years of software development experience. My 12lpa salary barely changed after this year's appraisal. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0065",
+    "published_at": "2026-09-09T10:00:00Z",
+    "content": "I recently moved into a testing role. My 12lpa salary barely changed after this year's appraisal. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0066",
+    "published_at": "2026-09-10T10:00:00Z",
+    "content": "I work on cloud infrastructure. My 12lpa salary barely changed after this year's appraisal. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0067",
+    "published_at": "2026-09-11T10:00:00Z",
+    "content": "I recently joined Infosys. I am comparing the fixed salary and variable pay in two offers. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0068",
+    "published_at": "2026-09-12T10:00:00Z",
+    "content": "I work for Cognizant. I am comparing the fixed salary and variable pay in two offers. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0069",
+    "published_at": "2026-09-13T10:00:00Z",
+    "content": "I work at a product startup. I am comparing the fixed salary and variable pay in two offers. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0070",
+    "published_at": "2026-09-14T10:00:00Z",
+    "content": "I work on backend services. I am comparing the fixed salary and variable pay in two offers. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0071",
+    "published_at": "2026-09-15T10:00:00Z",
+    "content": "I am part of a small engineering team. I am comparing the fixed salary and variable pay in two offers. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0072",
+    "published_at": "2026-09-16T10:00:00Z",
+    "content": "I changed teams earlier this year. I am comparing the fixed salary and variable pay in two offers. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0073",
+    "published_at": "2026-09-17T10:00:00Z",
+    "content": "I work at TCS. The annual salary hike was smaller than the rise in living costs. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0074",
+    "published_at": "2026-09-18T10:00:00Z",
+    "content": "My current employer is Wipro. The annual salary hike was smaller than the rise in living costs. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0075",
+    "published_at": "2026-09-19T10:00:00Z",
+    "content": "I joined HCL last year. The annual salary hike was smaller than the rise in living costs. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0076",
+    "published_at": "2026-09-20T10:00:00Z",
+    "content": "I have two years of software development experience. The annual salary hike was smaller than the rise in living costs. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0077",
+    "published_at": "2026-09-21T10:00:00Z",
+    "content": "I recently moved into a testing role. The annual salary hike was smaller than the rise in living costs. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0078",
+    "published_at": "2026-09-22T10:00:00Z",
+    "content": "I work on cloud infrastructure. The annual salary hike was smaller than the rise in living costs. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0079",
+    "published_at": "2026-09-23T10:00:00Z",
+    "content": "I recently joined Infosys. My CTC looks high but the monthly take-home pay is disappointing. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0080",
+    "published_at": "2026-09-24T10:00:00Z",
+    "content": "I work for Cognizant. My CTC looks high but the monthly take-home pay is disappointing. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0081",
+    "published_at": "2026-09-25T10:00:00Z",
+    "content": "I work at a product startup. My CTC looks high but the monthly take-home pay is disappointing. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0082",
+    "published_at": "2026-09-26T10:00:00Z",
+    "content": "I work on backend services. My CTC looks high but the monthly take-home pay is disappointing. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0083",
+    "published_at": "2026-09-27T10:00:00Z",
+    "content": "I am part of a small engineering team. My CTC looks high but the monthly take-home pay is disappointing. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0084",
+    "published_at": "2026-09-28T10:00:00Z",
+    "content": "I changed teams earlier this year. My CTC looks high but the monthly take-home pay is disappointing. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0085",
+    "published_at": "2026-09-01T10:00:00Z",
+    "content": "I work at TCS. I negotiated a higher compensation package after reviewing market salaries. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0086",
+    "published_at": "2026-09-02T10:00:00Z",
+    "content": "My current employer is Wipro. I negotiated a higher compensation package after reviewing market salaries. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0087",
+    "published_at": "2026-09-03T10:00:00Z",
+    "content": "I joined HCL last year. I negotiated a higher compensation package after reviewing market salaries. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0088",
+    "published_at": "2026-09-04T10:00:00Z",
+    "content": "I have two years of software development experience. I negotiated a higher compensation package after reviewing market salaries. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0089",
+    "published_at": "2026-09-05T10:00:00Z",
+    "content": "I recently moved into a testing role. I negotiated a higher compensation package after reviewing market salaries. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0090",
+    "published_at": "2026-09-06T10:00:00Z",
+    "content": "I work on cloud infrastructure. I negotiated a higher compensation package after reviewing market salaries. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0091",
+    "published_at": "2026-09-07T10:00:00Z",
+    "content": "I work at TCS. The return-to-office mandate requires relocating to another city. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0092",
+    "published_at": "2026-09-08T10:00:00Z",
+    "content": "My current employer is Wipro. The return-to-office mandate requires relocating to another city. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0093",
+    "published_at": "2026-09-09T10:00:00Z",
+    "content": "I joined HCL last year. The return-to-office mandate requires relocating to another city. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0094",
+    "published_at": "2026-09-10T10:00:00Z",
+    "content": "I have two years of software development experience. The return-to-office mandate requires relocating to another city. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0095",
+    "published_at": "2026-09-11T10:00:00Z",
+    "content": "I recently moved into a testing role. The return-to-office mandate requires relocating to another city. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0096",
+    "published_at": "2026-09-12T10:00:00Z",
+    "content": "I work on cloud infrastructure. The return-to-office mandate requires relocating to another city. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0097",
+    "published_at": "2026-09-13T10:00:00Z",
+    "content": "I recently joined Infosys. My daily commute has increased since compulsory office attendance began. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0098",
+    "published_at": "2026-09-14T10:00:00Z",
+    "content": "I work for Cognizant. My daily commute has increased since compulsory office attendance began. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0099",
+    "published_at": "2026-09-15T10:00:00Z",
+    "content": "I work at a product startup. My daily commute has increased since compulsory office attendance began. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0100",
+    "published_at": "2026-09-16T10:00:00Z",
+    "content": "I work on backend services. My daily commute has increased since compulsory office attendance began. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0101",
+    "published_at": "2026-09-17T10:00:00Z",
+    "content": "I am part of a small engineering team. My daily commute has increased since compulsory office attendance began. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0102",
+    "published_at": "2026-09-18T10:00:00Z",
+    "content": "I changed teams earlier this year. My daily commute has increased since compulsory office attendance began. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0103",
+    "published_at": "2026-09-19T10:00:00Z",
+    "content": "I work at TCS. I prefer remote work because moving closer to the office is expensive. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0104",
+    "published_at": "2026-09-20T10:00:00Z",
+    "content": "My current employer is Wipro. I prefer remote work because moving closer to the office is expensive. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0105",
+    "published_at": "2026-09-21T10:00:00Z",
+    "content": "I joined HCL last year. I prefer remote work because moving closer to the office is expensive. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0106",
+    "published_at": "2026-09-22T10:00:00Z",
+    "content": "I have two years of software development experience. I prefer remote work because moving closer to the office is expensive. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0107",
+    "published_at": "2026-09-23T10:00:00Z",
+    "content": "I recently moved into a testing role. I prefer remote work because moving closer to the office is expensive. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0108",
+    "published_at": "2026-09-24T10:00:00Z",
+    "content": "I work on cloud infrastructure. I prefer remote work because moving closer to the office is expensive. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0109",
+    "published_at": "2026-09-25T10:00:00Z",
+    "content": "I recently joined Infosys. The new office attendance policy has disrupted my family arrangements. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0110",
+    "published_at": "2026-09-26T10:00:00Z",
+    "content": "I work for Cognizant. The new office attendance policy has disrupted my family arrangements. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0111",
+    "published_at": "2026-09-27T10:00:00Z",
+    "content": "I work at a product startup. The new office attendance policy has disrupted my family arrangements. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0112",
+    "published_at": "2026-09-28T10:00:00Z",
+    "content": "I work on backend services. The new office attendance policy has disrupted my family arrangements. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0113",
+    "published_at": "2026-09-01T10:00:00Z",
+    "content": "I am part of a small engineering team. The new office attendance policy has disrupted my family arrangements. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0114",
+    "published_at": "2026-09-02T10:00:00Z",
+    "content": "I changed teams earlier this year. The new office attendance policy has disrupted my family arrangements. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0115",
+    "published_at": "2026-09-03T10:00:00Z",
+    "content": "I work at TCS. Our hybrid work arrangement was replaced with five days in the office. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0116",
+    "published_at": "2026-09-04T10:00:00Z",
+    "content": "My current employer is Wipro. Our hybrid work arrangement was replaced with five days in the office. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0117",
+    "published_at": "2026-09-05T10:00:00Z",
+    "content": "I joined HCL last year. Our hybrid work arrangement was replaced with five days in the office. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0118",
+    "published_at": "2026-09-06T10:00:00Z",
+    "content": "I have two years of software development experience. Our hybrid work arrangement was replaced with five days in the office. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0119",
+    "published_at": "2026-09-07T10:00:00Z",
+    "content": "I recently moved into a testing role. Our hybrid work arrangement was replaced with five days in the office. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0120",
+    "published_at": "2026-09-08T10:00:00Z",
+    "content": "I work on cloud infrastructure. Our hybrid work arrangement was replaced with five days in the office. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0121",
+    "published_at": "2026-09-09T10:00:00Z",
+    "content": "I work at TCS. I feel underqualified when experienced engineers discuss system design. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0122",
+    "published_at": "2026-09-10T10:00:00Z",
+    "content": "My current employer is Wipro. I feel underqualified when experienced engineers discuss system design. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0123",
+    "published_at": "2026-09-11T10:00:00Z",
+    "content": "I joined HCL last year. I feel underqualified when experienced engineers discuss system design. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0124",
+    "published_at": "2026-09-12T10:00:00Z",
+    "content": "I have two years of software development experience. I feel underqualified when experienced engineers discuss system design. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0125",
+    "published_at": "2026-09-13T10:00:00Z",
+    "content": "I recently moved into a testing role. I feel underqualified when experienced engineers discuss system design. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0126",
+    "published_at": "2026-09-14T10:00:00Z",
+    "content": "I work on cloud infrastructure. I feel underqualified when experienced engineers discuss system design. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0127",
+    "published_at": "2026-09-15T10:00:00Z",
+    "content": "I recently joined Infosys. Despite positive feedback, I worry that my coding skills are inadequate. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0128",
+    "published_at": "2026-09-16T10:00:00Z",
+    "content": "I work for Cognizant. Despite positive feedback, I worry that my coding skills are inadequate. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0129",
+    "published_at": "2026-09-17T10:00:00Z",
+    "content": "I work at a product startup. Despite positive feedback, I worry that my coding skills are inadequate. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0130",
+    "published_at": "2026-09-18T10:00:00Z",
+    "content": "I work on backend services. Despite positive feedback, I worry that my coding skills are inadequate. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0131",
+    "published_at": "2026-09-19T10:00:00Z",
+    "content": "I am part of a small engineering team. Despite positive feedback, I worry that my coding skills are inadequate. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0132",
+    "published_at": "2026-09-20T10:00:00Z",
+    "content": "I changed teams earlier this year. Despite positive feedback, I worry that my coding skills are inadequate. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0133",
+    "published_at": "2026-09-21T10:00:00Z",
+    "content": "I work at TCS. I compare myself with teammates and doubt whether I deserve this role. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0134",
+    "published_at": "2026-09-22T10:00:00Z",
+    "content": "My current employer is Wipro. I compare myself with teammates and doubt whether I deserve this role. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0135",
+    "published_at": "2026-09-23T10:00:00Z",
+    "content": "I joined HCL last year. I compare myself with teammates and doubt whether I deserve this role. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0136",
+    "published_at": "2026-09-24T10:00:00Z",
+    "content": "I have two years of software development experience. I compare myself with teammates and doubt whether I deserve this role. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0137",
+    "published_at": "2026-09-25T10:00:00Z",
+    "content": "I recently moved into a testing role. I compare myself with teammates and doubt whether I deserve this role. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0138",
+    "published_at": "2026-09-26T10:00:00Z",
+    "content": "I work on cloud infrastructure. I compare myself with teammates and doubt whether I deserve this role. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0139",
+    "published_at": "2026-09-27T10:00:00Z",
+    "content": "I recently joined Infosys. Asking basic technical questions makes me worry about appearing incompetent. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0140",
+    "published_at": "2026-09-28T10:00:00Z",
+    "content": "I work for Cognizant. Asking basic technical questions makes me worry about appearing incompetent. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0141",
+    "published_at": "2026-09-01T10:00:00Z",
+    "content": "I work at a product startup. Asking basic technical questions makes me worry about appearing incompetent. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0142",
+    "published_at": "2026-09-02T10:00:00Z",
+    "content": "I work on backend services. Asking basic technical questions makes me worry about appearing incompetent. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0143",
+    "published_at": "2026-09-03T10:00:00Z",
+    "content": "I am part of a small engineering team. Asking basic technical questions makes me worry about appearing incompetent. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0144",
+    "published_at": "2026-09-04T10:00:00Z",
+    "content": "I changed teams earlier this year. Asking basic technical questions makes me worry about appearing incompetent. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0145",
+    "published_at": "2026-09-05T10:00:00Z",
+    "content": "I work at TCS. I completed the project but still feel my success was mostly luck. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0146",
+    "published_at": "2026-09-06T10:00:00Z",
+    "content": "My current employer is Wipro. I completed the project but still feel my success was mostly luck. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0147",
+    "published_at": "2026-09-07T10:00:00Z",
+    "content": "I joined HCL last year. I completed the project but still feel my success was mostly luck. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0148",
+    "published_at": "2026-09-08T10:00:00Z",
+    "content": "I have two years of software development experience. I completed the project but still feel my success was mostly luck. I feel frustrated by the lack of clear communication.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0149",
+    "published_at": "2026-09-09T10:00:00Z",
+    "content": "I recently moved into a testing role. I completed the project but still feel my success was mostly luck. I am documenting the experience to understand my next steps.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0150",
+    "published_at": "2026-09-10T10:00:00Z",
+    "content": "I work on cloud infrastructure. I completed the project but still feel my success was mostly luck. I am worried and would appreciate practical advice.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0151",
+    "published_at": "2026-09-11T10:00:00Z",
+    "content": "I work at TCS. I am on the bench without a client project and worry about my role. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0152",
+    "published_at": "2026-09-12T10:00:00Z",
+    "content": "My current employer is Wipro. I am on the bench without a client project and worry about my role. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0153",
+    "published_at": "2026-09-13T10:00:00Z",
+    "content": "I joined HCL last year. I am on the bench without a client project and worry about my role. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0154",
+    "published_at": "2026-09-14T10:00:00Z",
+    "content": "I have two years of software development experience. I am on the bench without a client project and worry about my role. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0155",
+    "published_at": "2026-09-15T10:00:00Z",
+    "content": "I recently moved into a testing role. I am on the bench without a client project and worry about my role. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0156",
+    "published_at": "2026-09-16T10:00:00Z",
+    "content": "I work on cloud infrastructure. I am on the bench without a client project and worry about my role. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0157",
+    "published_at": "2026-09-17T10:00:00Z",
+    "content": "I recently joined Infosys. My manager placed me on a PIP with unclear performance expectations. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0158",
+    "published_at": "2026-09-18T10:00:00Z",
+    "content": "I work for Cognizant. My manager placed me on a PIP with unclear performance expectations. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0159",
+    "published_at": "2026-09-19T10:00:00Z",
+    "content": "I work at a product startup. My manager placed me on a PIP with unclear performance expectations. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0160",
+    "published_at": "2026-09-20T10:00:00Z",
+    "content": "I work on backend services. My manager placed me on a PIP with unclear performance expectations. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0161",
+    "published_at": "2026-09-21T10:00:00Z",
+    "content": "I am part of a small engineering team. My manager placed me on a PIP with unclear performance expectations. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0162",
+    "published_at": "2026-09-22T10:00:00Z",
+    "content": "I changed teams earlier this year. My manager placed me on a PIP with unclear performance expectations. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0163",
+    "published_at": "2026-09-23T10:00:00Z",
+    "content": "I work at TCS. Being benched for weeks has made my future at the company uncertain. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0164",
+    "published_at": "2026-09-24T10:00:00Z",
+    "content": "My current employer is Wipro. Being benched for weeks has made my future at the company uncertain. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0165",
+    "published_at": "2026-09-25T10:00:00Z",
+    "content": "I joined HCL last year. Being benched for weeks has made my future at the company uncertain. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0166",
+    "published_at": "2026-09-26T10:00:00Z",
+    "content": "I have two years of software development experience. Being benched for weeks has made my future at the company uncertain. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0167",
+    "published_at": "2026-09-27T10:00:00Z",
+    "content": "I recently moved into a testing role. Being benched for weeks has made my future at the company uncertain. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0168",
+    "published_at": "2026-09-28T10:00:00Z",
+    "content": "I work on cloud infrastructure. Being benched for weeks has made my future at the company uncertain. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0169",
+    "published_at": "2026-09-01T10:00:00Z",
+    "content": "I recently joined Infosys. The performance improvement plan gives me little time to meet its targets. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0170",
+    "published_at": "2026-09-02T10:00:00Z",
+    "content": "I work for Cognizant. The performance improvement plan gives me little time to meet its targets. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0171",
+    "published_at": "2026-09-03T10:00:00Z",
+    "content": "I work at a product startup. The performance improvement plan gives me little time to meet its targets. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0172",
+    "published_at": "2026-09-04T10:00:00Z",
+    "content": "I work on backend services. The performance improvement plan gives me little time to meet its targets. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0173",
+    "published_at": "2026-09-05T10:00:00Z",
+    "content": "I am part of a small engineering team. The performance improvement plan gives me little time to meet its targets. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0174",
+    "published_at": "2026-09-06T10:00:00Z",
+    "content": "I changed teams earlier this year. The performance improvement plan gives me little time to meet its targets. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0175",
+    "published_at": "2026-09-07T10:00:00Z",
+    "content": "I work at TCS. I need a project allocation before my bench period becomes a problem. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0176",
+    "published_at": "2026-09-08T10:00:00Z",
+    "content": "My current employer is Wipro. I need a project allocation before my bench period becomes a problem. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0177",
+    "published_at": "2026-09-09T10:00:00Z",
+    "content": "I joined HCL last year. I need a project allocation before my bench period becomes a problem. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0178",
+    "published_at": "2026-09-10T10:00:00Z",
+    "content": "I have two years of software development experience. I need a project allocation before my bench period becomes a problem. I am grateful for colleagues who have supported me.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0179",
+    "published_at": "2026-09-11T10:00:00Z",
+    "content": "I recently moved into a testing role. I need a project allocation before my bench period becomes a problem. This has been a learning journey, although it has been difficult.",
+    "record_type": "post",
+    "is_synthetic": true
+  },
+  {
+    "source_id": "expanded_reddit_0180",
+    "published_at": "2026-09-12T10:00:00Z",
+    "content": "I work on cloud infrastructure. I need a project allocation before my bench period becomes a problem. I am hopeful that the situation will improve.",
+    "record_type": "post",
+    "is_synthetic": true
+  }
+]

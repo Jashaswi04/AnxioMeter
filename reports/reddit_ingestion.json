@@ -1,0 +1,10 @@
+{
+  "platform": "reddit",
+  "mode": "synthetic_file_import",
+  "input_records": 180,
+  "output_records": 180,
+  "duplicate_records": 0,
+  "rejected_records": 0,
+  "rejections": [],
+  "output_file": "raw_reddit.csv"
+}

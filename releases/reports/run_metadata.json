@@ -1,0 +1,52 @@
+{
+  "model_version": "synthetic-demo-v1",
+  "data_type": "synthetic",
+  "records": 360,
+  "platform_counts": {
+    "reddit": 180,
+    "linkedin": 180
+  },
+  "outliers": 108,
+  "outlier_percent": 30.0,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_input": "cleaned_text",
+  "umap": {
+    "n_neighbors": 15,
+    "n_components": 5,
+    "min_dist": 0.0,
+    "metric": "cosine",
+    "random_state": 42
+  },
+  "hdbscan": {
+    "min_cluster_size": 30,
+    "min_samples": 5,
+    "metric": "euclidean",
+    "cluster_selection_method": "eom",
+    "prediction_data": true
+  },
+  "serialization": "safetensors",
+  "python_version": "3.13.15",
+  "packages": {
+    "bertopic": "0.17.4",
+    "sentence-transformers": "5.7.0",
+    "torch": "2.11.0+cpu",
+    "transformers": "5.17.0",
+    "huggingface-hub": "1.31.0",
+    "numpy": "2.1.3",
+    "pandas": "2.2.3",
+    "scipy": "1.16.3",
+    "scikit-learn": "1.6.1",
+    "umap-learn": "0.5.12",
+    "hdbscan": "0.8.44",
+    "safetensors": "0.8.0"
+  },
+  "dataset_sha256": "6dd33087656686535715178cbd2fbcfb110b5e71aa454c6e40d61894083b8fdf",
+  "limitations": [
+    "All records are synthetic.",
+    "360 examples derive from 30 core statements.",
+    "Topic 0 contains multiple workplace themes.",
+    "Labels are provisional, based on inspected examples.",
+    "Platform differences are not real-world findings.",
+    "Compact model does not preserve original UMAP/HDBSCAN objects."
+  ]
+}

@@ -1,0 +1,10 @@
+pandas
+praw
+python-dotenv
+bertopic
+sentence-transformers
+torch
+umap-learn
+hdbscan
+scikit-learn
+safetensors

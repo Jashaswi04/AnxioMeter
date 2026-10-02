@@ -1,0 +1,14 @@
+# Local environment and credentials
+.venv/
+.env
+.env.*
+!.env.example
+
+# Python and notebook caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Old backups and packaged releases
+data/backups/
+releases/
